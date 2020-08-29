@@ -11,6 +11,4 @@
 - All pull request will be monitored by us.
 - This is our one of the evaluation criteria for the probation.
 
-Shivam Bisht
-Amol Saini
 
