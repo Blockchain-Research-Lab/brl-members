@@ -10,7 +10,7 @@
 | Name       | Batch | Domain        | Branch | Github                             |
 |------------|-------|---------------|--------|------------------------------------|
 | Amol Saini | 17-21 | Web Developer | CSE    | https://github.com/amolsr -        |
-| Harsh Gupta| 18-22 | App Developer | IT     | https://github.com/harshgupta80700 |
+|            |       |               |        |                                    |
 |            |       |               |        |                                    |
 
 
