@@ -7,10 +7,9 @@
 4. Commit the changes to you Personal fork.
 3. Create a pull request so that your changes can be merge into the repository.
 
-| Name       | Batch | Domain        | Branch | Github                    |
-|------------|-------|---------------|--------|---------------------------|
-| Amol Saini | 17-21 | Web Developer | CSE    | https://github.com/amolsr |
-|            |       |               |        |                           |
-|            |       |               |        |                           |
-
+| Name       | Batch | Domain        | Branch | Github                             |
+|------------|-------|---------------|--------|------------------------------------|
+| Amol Saini | 17-21 | Web Developer | CSE    | https://github.com/amolsr -        |
+| Harsh Gupta| 18-22 | App Developer | IT     | https://github.com/harshgupta80700 |
+|            |       |               |        |                                    |
 
