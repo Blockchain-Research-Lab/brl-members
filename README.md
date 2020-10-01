@@ -13,6 +13,7 @@
 | Harsh Gupta| 18-22 | App Developer | IT     | https://github.com/harshgupta80700 |
 | Abhishek Gupta | 17-21 | WEB DEVELOPER |CSE|https://github.com/Abhishek0402  |
 | Shivam Bisht | 18-22 | Web Developer | CSE | https://github.com/shivam-S-bisht |
+| Himani Chauhan | 18-22 | Web Developer | ECE | https://github.com/himani100700 |
 
 
 
