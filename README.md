@@ -14,6 +14,7 @@
 | Abhishek Gupta | 17-21 | WEB DEVELOPER |CSE|https://github.com/Abhishek0402  |
 | Shivam Bisht | 18-22 | Web Developer | CSE | https://github.com/shivam-S-bisht |
 | Himani Chauhan | 18-22 | Web Developer | ECE | https://github.com/himani100700 |
+| Apoorv Maheshwari | 19-23 | App Developer | CSE | https://github.com/Apoorv-cloud |
 
 
 
